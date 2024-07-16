@@ -1,6 +1,6 @@
 # Retail Sales Trend Analysis
 
-This project focuses on analyzing retail sales data to identify trends and patterns. The analysis involves data cleaning, transformation, and visualization to derive insights from the dataset.
+This project focus on analyzing retail sales data to identify trends and patterns. The analysis involves data cleaning, transformation, and visualization to derive insights from the dataset.
 
 # Key Findings
 
