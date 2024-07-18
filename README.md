@@ -25,4 +25,4 @@ This project focus on analyzing retail sales data to identify trends and pattern
 > * Data File Formats: Feather: Used to store and read the dataset efficiently, leveraging its fast read and write capabilities.
 
 # Conclusions
-The analysis provided valuable insights into retail sales trends, highlighting key periods of high sales and identifying top-performing cities. By leveraging Python's data analysis and visualization libraries, the analysis effectively transformed raw sales data into actionable insights. These findings can guide business decisions, such as inventory management and targeted marketing strategies, to enhance sales performance.
+The analysis provided valuable insights into retail sales trends, highlighting key periods of high sales & identifying top-performing cities. By leveraging Python's data analysis and visualization libraries, the analysis effectively transformed raw sales data into actionable insights. These findings can guide business decisions, such as inventory management and targeted marketing strategies, to enhance sales performance.
